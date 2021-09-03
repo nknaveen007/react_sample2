@@ -1,0 +1,17 @@
+.card {
+  box-shadow: 0 2px 2px #2f312f;
+  max-width: 500px;
+  margin: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.white {
+  background-color: #fff;
+  padding: 10px;
+}
+
+.purple {
+  background-color: purple;
+  padding: 1px 15px;
+}
